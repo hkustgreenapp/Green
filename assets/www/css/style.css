@@ -1,34 +1,3 @@
-.myNavBar .ui-btn .ui-btn-inner { padding-top: 40px !important; }
-
-
-.myNavBar .ui-btn .ui-icon { width: 40px!important; height: 40px!important; margin-left: -20px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; 
-margin-top:-5px;
-}
-
-#event .ui-icon {
-	background: url(file:///android_asset/www/images/event.png) 50% 50% no-repeat;
-	background-size:32px 32px;
-}
-
-#video .ui-icon {
-	background: url(file:///android_asset/www/images/video.png) 50% 50% no-repeat;
-	background-size:32px 32px;
-}
-
-#ust .ui-icon {
-	background: url(file:///android_asset/www/images/ust.png) 50% 50% no-repeat;
-	background-size:32px 32px;
-}
-
-#map .ui-icon {
-	background: url(file:///android_asset/www/images/map.png) 50% 50% no-repeat;
-	background-size:32px 32px;
-}
-
-#us .ui-icon {
-	background: url(file:///android_asset/www/images/us.png) 50% 50% no-repeat;
-	background-size:25px 25px;
-}
 
 .imgagesize{
 	height: 160px; width: 90px; overflow: hidden;text-align:center;
@@ -60,8 +29,8 @@ margin-top:-5px;
 
 #maplocation {
     overflow:scroll;
-    width:814px;
-    height:954px;
+    width:1000px;
+    height:1103px;
 }
 
 .ui-icon-myapp-email {
@@ -78,5 +47,3 @@ margin-top:-5px;
 	width:110px;
     height:111px;	
 }
-
-
